@@ -69,7 +69,7 @@ enableEmoji = true
 # Allow to override webmanifest options
 [params.webmanifest]
   name = "Sumit Kumar" # will use "params.sitename" or "title" by default
-  short_name = "sumone" # same as name
+  short_name = "sum" # same as name
   start_url = "/" # will use homepage url by default
   theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
@@ -81,16 +81,12 @@ enableEmoji = true
 
 [[params.socialIcons]]
 name = "Portfolio-site"
-url = "https://sumone.love"
+url = "https://sumone.me"
 
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/sumonelove"
 
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/sumonefromindia"
 
 [[params.socialIcons]]
 name = "Rss"
